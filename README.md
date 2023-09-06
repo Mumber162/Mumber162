@@ -1,9 +1,9 @@
 # 💫 About Me:
 👀 I’m interested in Music, TV Shows, games, and IT area<br>🌱 I’m currently learning HTML, CSS and Javascript.<br>💞️ I’m looking to collaborate on Web Dev and Game Coding.
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mumber162&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Mumber162&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumber162&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mumber162&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumber162&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulo_detars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-de-tarso-a31722264) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20362498) 
