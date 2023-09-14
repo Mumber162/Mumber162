@@ -1,5 +1,6 @@
 # 💫 About Me:
-👀 I’m interested in Music, TV Shows, games, and IT area<br>🌱 I’m currently learning HTML, CSS and Javascript.<br>💞️ I’m looking to collaborate on Web Dev and Game Coding.
+### 👀 I’m interested in Music, TV Shows, games, and IT area<br>
+### 🌱 I’m currently learning C and CRUD.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumber162&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Mumber162&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
