@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 <strong>👀 I’m interested in Music, TV Shows, games, and IT area</strong><br>
-<strong>🌱 I’m currently learning C and CRUD.</strong>
+<strong>👾 I’m currently learning C and CRUD.</strong>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mumber162&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Mumber162&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
